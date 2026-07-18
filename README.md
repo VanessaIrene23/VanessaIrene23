@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Vanessa! 👋
 
-<!--
-**VanessaIrene23/VanessaIrene23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Engineering Apprentice** with a solid foundation in Python and a strong interest in front-end development. I enjoy bridging the gap between clean logic and responsive user interfaces, specifically building practical business management systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Tech Stack & Tools
+
+* **Languages:** Python, Typescript,HTML5, CSS3 (Flexbox & Grid)
+* **Developer Tools:** Django,VS Code, Git, GitHub, Localhost environments
+* **Methodologies & Workflow:** Scrum/Agile, Human-Centered Design
+
+###What I'm Doing Right Now
+
+* **Apprenticeship Focus:** Turning foundational engineering principles into production-ready web applications.
+* **Projects:** Developing custom business tools like inventory tracking systems, secure login gateways, and digital hardware management dashboards.
+* **Organization:** Utilizing Obsidian to map out application architectures and manage my development sprints.
+
+###GitHub Stats
+
+![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaIrene23&show_icons=true&theme=radial)
+
+---
+
+### 📫 How to Reach Me
+
+* 💼 Connect with me on [LinkedIn](www.linkedin.com/in/vanessa-irene-namakula-910171261)
+* 📧 Shoot me an email at [vanessanamakula79@gmail.com]
