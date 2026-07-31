@@ -17,13 +17,13 @@ I am a **Software Engineering Apprentice** with a solid foundation in Python and
 
 ![Leadership](https://img.shields.io/badge/Leadership-🏆%20Strategic-blue?style=flat-square) ![Business Communication](https://img.shields.io/badge/Business%20Communication-🗣️%20Professional-darkgreen?style=flat-square) ![Methodology](https://img.shields.io/badge/Methodology-🔄%20Agile%2FScrum-orange?style=flat-square)
 
-###What I'm Doing Right Now
+### What I'm Doing Right Now
 
 * **Apprenticeship Focus:** Turning foundational engineering principles into production-ready web applications.
 * **Projects:** Developing custom business tools like inventory tracking systems, secure login gateways, and digital hardware management dashboards.
 * **Organization:** Utilizing Obsidian to map out application architectures and manage my development sprints.
 
-###GitHub Stats
+### GitHub Stats
 
 ![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaIrene23&show_icons=true&theme=radial)
 
