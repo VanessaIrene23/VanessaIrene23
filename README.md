@@ -2,7 +2,7 @@
 
 I am a **Software Engineering Apprentice** with a solid foundation in Python and a strong interest in front-end development. I enjoy bridging the gap between clean logic and responsive user interfaces, specifically building practical business management systems.
 
----
+
 
 ### 💻 Technical Toolkit
 
