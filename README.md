@@ -23,11 +23,11 @@ I am a **Software Engineering Apprentice** with a solid foundation in Python and
 * **Projects:** Developing custom business tools like inventory tracking systems, secure login gateways, and digital hardware management dashboards.
 * **Organization:** Utilizing Obsidian to map out application architectures and manage my development sprints.
 
-### GitHub Stats
+### 📊 GitHub Stats
 
-![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaIrene23&show_icons=true&theme=radial)
+![Vanessa's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=VanessaIrene23&show_icons=true&theme=radical)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=VanessaIrene23)
 
 ### 📫 How to Reach Me
 
